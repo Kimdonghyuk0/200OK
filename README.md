@@ -10,7 +10,7 @@
 
 발표링크: https://www.miricanvas.com/v/13qm5dl
 
-백엔드 깃허브 링크 :https://github.com/choi06151/200OK_BackEnd.git
+백엔드 깃허브 링크 :https://github.com/choi06151/200OK_BackEnd.git , https://github.com/Kimdonghyuk0/200OK_FastAPI.git
 
 # Getting Started with Create React App
 
